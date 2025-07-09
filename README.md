@@ -11,7 +11,7 @@ This is a React Native assignment to build a fully functional chat screen using 
 Include screenshots of your app or screencast link.
 
 ### ▶️ Screencast
-[Watch Video Demo](https://drive.google.com/file/d/1P97WyWPmAfM_la-RLld5SlfACZ4852hI/view?usp=sharing)
+[updated video Demo](https://drive.google.com/file/d/1w1vY4NdjxFnNtEHV8_VVPD7AzcmeS2ay/view?usp=sharing)
 
 ### 🔧 Tech Stack
 - React Native (Expo)
